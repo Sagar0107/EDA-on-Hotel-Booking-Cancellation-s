@@ -1,1 +1,3 @@
 # EDA-on-Hotel-Booking-Cancellation-s
+High cancellation rates have been observed recently at City Hotel and Resort Hotel. As a result, each hotel is currently coping with a variety of problems, such as decreased revenues and less than optimum hotel room usage. In order to boost their effectiveness in producing income, hotels must therefore cut cancellation rates, and we must provide extensive business counsel to solve this issue. The major subjects of this analysis is an investigation of hotel booking cancellations as well as other reasons that don't affect their business or yearly income creation.
+
